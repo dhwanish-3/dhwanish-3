@@ -4,9 +4,9 @@
 
 - 🔭 I’m currently working on [Interview-Questions-and-Solutions](https://github.com/dhwanish-3/Interview-Questions-and-Solutions)
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently coding on **LeetCode**
 
-- 🤝 I’m looking for help with [Quiz-Calendar]([https://github.com/dhwanish-3/Quiz-Calendar](https://github.com/dhwanish-3/Interview-Questions-and-Solutions))
+- 🤝 I’m looking for help with [Interview-Questions-and-Solutions](https://github.com/dhwanish-3/Interview-Questions-and-Solutions)
 
 - 👨‍💻 All of my projects are available at [https://github.com/dhwanish-3](https://github.com/dhwanish-3)
 
