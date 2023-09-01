@@ -67,10 +67,10 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
 </p>
 
-<p><img align="left" height=195 src="https://github-readme-stats.vercel.app/api/top-langs?username=dhwanish-3&show_icons=true&locale=en&layout=compact" alt="dhwanish-3" /></p>
+<p><img align="left" height=195 src="https://github-readme-stats.vercel.app/api/top-langs?username=dhwanish-3&show_icons=true&locale=en&layout=compact&theme=algolia" alt="dhwanish-3" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhwanish-3&show_icons=true&locale=en" alt="dhwanish-3" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhwanish-3&show_icons=true&locale=en&theme=algolia" alt="dhwanish-3" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhwanish-3&" alt="dhwanish-3" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhwanish-3&theme=algolia" alt="dhwanish-3" /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhwanish-3" alt="dhwanish-3" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhwanish-3&row=1&theme=algolia" alt="dhwanish-3" /></a> </p>
