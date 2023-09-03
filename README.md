@@ -67,17 +67,16 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
 </p>
 
-<summary><b>⚙️GitHub Analytics</b></summary>
+<summary><b>⚙️ GitHub Analytics</b></summary>
 <a href="https://github.com/dhwanish-3">
     <img height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dhwanish-3&theme=algolia" alt="Dhwanish github stats" />
     <img height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dhwanish-3&theme=algolia" alt="Dhwanish github stats" />
     <img height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dhwanish-3&theme=algolia" alt="Dhwanish github stats" />
     <img height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dhwanish-3&theme=algolia" alt="Dhwanish github stats" />
     <img height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dhwanish-3&theme=algolia&utcOffset=8" />
-    <div style="display:flex;gap:1rem;">
-        <div style="display:flex;flex-direction:column;gap:1rem;">
-            <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhwanish-3&theme=algolia" alt="dhwanish-3" />
-            <img src="https://github-readme-stats.vercel.app/api?username=dhwanish-3&show_icons=true&locale=en&theme=algolia" alt="dhwanish-3" />
-        </div>
-        <img src="https://github-profile-trophy.vercel.app/?username=dhwanish-3&theme=algolia&row=3&column=2&title=Stars,Commits,Issues,PullRequest,Repositories,Reviews"alt="dhwanish-3" />
+    <div>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhwanish-3&theme=algolia&hide_border=true" alt="dhwanish-3" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dhwanish-3&show_icons=true&locale=en&layout=compact&theme=algolia&size_weight=0.6&count_weight=0.4&langs_count=8&hide_border=true" alt="dhwanish-3" />
+        <img src="https://github-readme-stats.vercel.app/api?username=dhwanish-3&show_icons=true&locale=en&theme=algolia&include_all_commits&rank_icon=percentile&line_height=29&hide_border=true" alt="dhwanish-3" />
+        <img src="https://github-profile-trophy.vercel.app/?username=dhwanish-3&theme=algolia&row=2&column=3&title=Stars,Commits,Issues,PullRequest,Repositories,Reviews&no-frame=true"alt="dhwanish-3" />
     </div>
