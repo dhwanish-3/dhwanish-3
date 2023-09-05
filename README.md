@@ -77,4 +77,4 @@
     <img height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dhwanish-3&theme=algolia" alt="Dhwanish github stats" />
     <img height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dhwanish-3&theme=algolia&utcOffset=8" />
     <img src="https://github-readme-stats.vercel.app/api?username=dhwanish-3&show_icons=true&locale=en&theme=algolia&include_all_commits&rank_icon=percentile&line_height=29&hide_border=true" alt="dhwanish-3" />
-    <img src="https://github-profile-trophy.vercel.app/?username=dhwanish-3&theme=algolia&row=2&column=3&title=Stars,Commits,Issues,PullRequest,Repositories,Reviews&no-frame=true"alt="dhwanish-3" />
+    <img src="https://github-profile-trophy.vercel.app/?username=dhwanish-3&theme=algolia&row=2&column=3&title=MultipleLang,Stars,Commits,Issues,PullRequest,Repositories,Reviews&no-frame=true"alt="dhwanish-3" />
