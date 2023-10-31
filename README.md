@@ -58,6 +58,6 @@
 <h3>⚙️ GitHub Analytics</h3>
 <a href="https://github.com/dhwanish-3">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhwanish-3&theme=algolia&hide_border=true" alt="dhwanish-3" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dhwanish-3&show_icons=true&locale=en&layout=compact&theme=algolia&size_weight=0.6&count_weight=0.4&langs_count=8&hide_border=true" alt="dhwanish-3" />
-    <img src="https://github-readme-stats.vercel.app/api?username=dhwanish-3&show_icons=true&locale=en&theme=algolia&include_all_commits&rank_icon=percentile&line_height=29&hide_border=true" alt="dhwanish-3" />
+    <img src="https://my-readme-stats-chi.vercel.app/api/top-langs?username=dhwanish-3&show_icons=true&locale=en&layout=compact&theme=algolia&size_weight=0.5&count_weight=0.5&langs_count=8&hide_border=true&hide=Makefile" alt="dhwanish-3" />
+    <img src="https://my-readme-stats-chi.vercel.app/api?username=dhwanish-3&show_icons=true&locale=en&theme=algolia&include_all_commits&rank_icon=percentile&line_height=29&hide_border=true" alt="dhwanish-3" />
     <img src="https://github-profile-trophy.vercel.app/?username=dhwanish-3&theme=algolia&row=2&column=3&title=MultipleLang,Stars,Commits,Issues,PullRequest,Repositories,Reviews&no-frame=true"alt="dhwanish-3" />
