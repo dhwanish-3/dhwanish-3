@@ -10,13 +10,20 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/dhwanidhwanish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dhwanidhwanish" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/dhwanishkr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhwanishkr" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/dhwani333sh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="dhwani333sh" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/dhwanish_b211261" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dhwanish_b211261" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/dhwanish3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="dhwanish3" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/dhwanish3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dhwanish3" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/dhwanicx67" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="dhwanicx67" height="30" width="40" /></a>
+    <a href="https://twitter.com/dhwanidhwanish" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dhwanidhwanish" height="30" width="40" /></a>
+    <a href="https://linkedin.com/in/dhwanishkr" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhwanishkr" height="30" width="40" /></a>
+    <a href="https://www.codechef.com/users/dhwani333sh" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="dhwani333sh" height="30" width="40" /></a>
+    <a href="https://www.hackerrank.com/dhwanish_b211261" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dhwanish_b211261" height="30" width="40" /></a>
+    <a href="https://codeforces.com/profile/dhwanish3" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="dhwanish3" height="30" width="40" /></a>
+    <a href="https://www.leetcode.com/dhwanish3" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dhwanish3" height="30" width="40" /></a>
+    <a href="https://auth.geeksforgeeks.org/user/dhwanicx67" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="dhwanicx67" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -57,7 +64,7 @@
 
 <h3>⚙️ GitHub Analytics</h3>
 <a href="https://github.com/dhwanish-3">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhwanish-3&theme=algolia&hide_border=true" alt="dhwanish-3" />
-    <img src="https://my-readme-stats-chi.vercel.app/api/top-langs?username=dhwanish-3&show_icons=true&locale=en&layout=compact&theme=algolia&size_weight=0.5&count_weight=0.5&langs_count=8&hide_border=true&hide=Makefile" alt="dhwanish-3" />
-    <img src="https://my-readme-stats-chi.vercel.app/api?username=dhwanish-3&show_icons=true&locale=en&theme=algolia&include_all_commits&rank_icon=percentile&line_height=29&hide_border=true" alt="dhwanish-3" />
-    <img src="https://github-profile-trophy.vercel.app/?username=dhwanish-3&theme=algolia&row=2&column=3&title=MultipleLang,Stars,Commits,Issues,PullRequest,Repositories,Reviews&no-frame=true"alt="dhwanish-3" />
+    <img class="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=dhwanish-3&theme=algolia&hide_border=true" alt="dhwanish-3"/>
+    <img class="Lang" src="https://my-readme-stats-chi.vercel.app/api/top-langs?username=dhwanish-3&show_icons=true&locale=en&layout=compact&theme=algolia&size_weight=0.5&count_weight=0.5&langs_count=8&hide_border=true&hide=Makefile" alt="dhwanish-3" />
+    <img class="rank" src="https://my-readme-stats-chi.vercel.app/api?username=dhwanish-3&show_icons=true&locale=en&theme=algolia&include_all_commits&rank_icon=percentile&line_height=29&hide_border=true" alt="dhwanish-3" />
+    <img class="trophy" src="https://github-profile-trophy.vercel.app/?username=dhwanish-3&theme=algolia&row=2&column=3&title=MultipleLang,Stars,Commits,Issues,PullRequest,Repositories,Reviews&no-frame=true"alt="dhwanish-3" />
