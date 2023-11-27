@@ -2,7 +2,7 @@
 <h3 align="center">Tech Enthusiastic, Eager to Learn</h3>
 <img align="right" alt="Coder GIF" width=380 src="dhwanish-coding.gif" />
 
-- 🔭 I’m currently working on [dhwany_OS](https://github.com/dhwanish-3/dhwanY_OS)
+- 🔭 I’m currently working on [quizi-five](https://github.com/dhwanish-3/quizi-five)
 
 - 👨‍💻 All of my projects are available at [https://github.com/dhwanish-3](https://github.com/dhwanish-3)
 
@@ -64,7 +64,7 @@
 
 <h3>⚙️ GitHub Analytics</h3>
 <a href="https://github.com/dhwanish-3">
-    <img class="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=dhwanish-3&theme=algolia&hide_border=true" alt="dhwanish-3"/>
-    <img class="Lang" src="https://my-readme-stats-chi.vercel.app/api/top-langs?username=dhwanish-3&show_icons=true&locale=en&layout=compact&theme=algolia&size_weight=0.5&count_weight=0.5&langs_count=8&hide_border=true&hide=Makefile" alt="dhwanish-3" />
-    <img class="rank" src="https://my-readme-stats-chi.vercel.app/api?username=dhwanish-3&show_icons=true&locale=en&theme=algolia&include_all_commits&rank_icon=percentile&line_height=29&hide_border=true" alt="dhwanish-3" />
-    <img class="trophy" src="https://github-profile-trophy.vercel.app/?username=dhwanish-3&theme=algolia&row=2&column=3&title=MultipleLang,Stars,Commits,Issues,PullRequest,Repositories,Reviews&no-frame=true"alt="dhwanish-3" />
+    <img class="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=dhwanish-3&theme=synthwave&hide_border=true" alt="dhwanish-3"/>
+    <img class="Lang" src="https://my-readme-stats-chi.vercel.app/api/top-langs?username=dhwanish-3&show_icons=true&locale=en&layout=compact&theme=synthwave&size_weight=0.5&count_weight=0.5&langs_count=8&hide_border=true&hide=Makefile" alt="dhwanish-3" />
+    <img class="rank" src="https://my-readme-stats-chi.vercel.app/api?username=dhwanish-3&show_icons=true&locale=en&theme=synthwave&include_all_commits&rank_icon=percentile&line_height=29&hide_border=true" alt="dhwanish-3" />
+    <img class="trophy" src="https://github-profile-trophy.vercel.app/?username=dhwanish-3&theme=dracula&row=2&column=3&title=MultipleLang,Stars,Commits,Issues,PullRequest,Repositories,Reviews&no-frame=true"alt="dhwanish-3" />
