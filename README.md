@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dhwanish</h1>
 <h3 align="center">Tech Enthusiastic, Eager to Learn</h3>
-<img align="right" alt="Coder GIF" width=380 src="images/dhwanish-coding.gif" />
+<img align="right" alt="Coder GIF" width=380 src="dhwanish-coding.gif" />
 
 - 🔭 I’m currently working on [quizi-five](https://github.com/dhwanish-3/quizi-five)
 
@@ -11,55 +11,55 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://twitter.com/dhwanidhwanish">
-    <img align="center" src="icons/twitter.svg" alt="dhwanidhwanish" height="30" width="40" /></a>
+    <img align="center" src="twitter.svg" alt="dhwanidhwanish" height="30" width="40" /></a>
     <a href="https://linkedin.com/in/dhwanishkr">
-    <img align="center" src="icons/linkedin.svg" alt="dhwanishkr" height="30" width="40" /></a>
+    <img align="center" src="linkedin.svg" alt="dhwanishkr" height="30" width="40" /></a>
     <a href="https://www.codechef.com/users/dhwani333sh">
-    <img align="center" src="icons/codechef.svg" alt="dhwani333sh" height="30" width="40" /></a>
+    <img align="center" src="codechef.svg" alt="dhwani333sh" height="30" width="40" /></a>
     <a href="https://www.hackerrank.com/dhwanish_b211261">
-    <img align="center" src="icons/hackerrank.svg" alt="dhwanish_b211261" height="30" width="40" /></a>
+    <img align="center" src="hackerrank.svg" alt="dhwanish_b211261" height="30" width="40" /></a>
     <a href="https://codeforces.com/profile/dhwanish3">
-    <img align="center" src="icons/codeforces.svg" alt="dhwanish3" height="30" width="40" /></a>
+    <img align="center" src="codeforces.svg" alt="dhwanish3" height="30" width="40" /></a>
     <a href="https://www.leetcode.com/dhwanish3">
-    <img align="center" src="icons/leetcode.svg" alt="dhwanish3" height="30" width="40" /></a>
+    <img align="center" src="leetcode.svg" alt="dhwanish3" height="30" width="40" /></a>
     <a href="https://auth.geeksforgeeks.org/user/dhwanicx67">
-    <img align="center" src="icons/gfg.svg" alt="dhwanicx67" height="30" width="40" /></a>
+    <img align="center" src="gfg.svg" alt="dhwanicx67" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <a href="https://www.cprogramming.com/">
-    <img src="icons/c.svg" alt="c" width="40" height="40"/> </a>
+    <img src="c.svg" alt="c" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/cpp/"> 
-    <img src="icons/cpp.svg" alt="cplusplus" width="40" height="40"/> </a> 
+    <img src="cpp.svg" alt="cplusplus" width="40" height="40"/> </a> 
 <a href="https://flutter.dev"> 
-    <img src="icons/flutter.svg" alt="flutter" width="40" height="40"/> </a> 
+    <img src="flutter.svg" alt="flutter" width="40" height="40"/> </a> 
 <a href="https://dart.dev"> 
-    <img src="icons/dart.svg" alt="dart" width="40" height="40"/> </a> 
+    <img src="dart.svg" alt="dart" width="40" height="40"/> </a> 
 <a href="https://www.w3.org/html/">
-    <img src="icons/html.svg" alt="html5" width="40" height="40"/> </a>
+    <img src="html.svg" alt="html5" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/css/">
-    <img src="icons/css.svg" alt="css3" width="40" height="40"/> </a>
+    <img src="css.svg" alt="css3" width="40" height="40"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"> 
-    <img src="icons/javascript.svg" alt="javascript" width="40" height="40"/> </a> 
+    <img src="javascript.svg" alt="javascript" width="40" height="40"/> </a> 
 <a href="https://www.figma.com/">
-    <img src="icons/figma.svg" alt="figma" width="40" height="40"/> </a> 
+    <img src="figma.svg" alt="figma" width="40" height="40"/> </a> 
 <a href="https://reactjs.org/">
-    <img src="icons/react.svg" alt="react" width="40" height="40"/> </a> 
+    <img src="react.svg" alt="react" width="40" height="40"/> </a> 
 <a href="https://nodejs.org">
-    <img src="icons/nodejs.svg" alt="nodejs" width="40" height="40"/> </a>
+    <img src="nodejs.svg" alt="nodejs" width="40" height="40"/> </a>
 <a href="https://www.java.com">
-    <img src="icons/java.svg" alt="java" width="40" height="40"/> </a> 
+    <img src="java.svg" alt="java" width="40" height="40"/> </a> 
 <a href="https://firebase.google.com/"> 
-    <img src="icons/firebase.svg" alt="firebase" width="40" height="40"/> </a> 
+    <img src="firebase.svg" alt="firebase" width="40" height="40"/> </a> 
 <a href="https://www.php.net"> 
-    <img src="icons/php.svg" alt="php" width="40" height="40"/> </a> 
+    <img src="php.svg" alt="php" width="40" height="40"/> </a> 
 <a href="https://www.mysql.com/">
-    <img src="icons/mysql.svg" alt="mysql" width="40" height="40"/> </a>
+    <img src="mysql.svg" alt="mysql" width="40" height="40"/> </a>
 <a href="https://cloud.google.com"> 
-    <img src="icons/gcloud.svg" alt="gcp" width="40"height="40"></a> 
+    <img src="gcloud.svg" alt="gcp" width="40"height="40"></a> 
 <a href="https://www.blender.org/"> 
-    <img src="icons/blender.svg" alt="blender" width="40" height="40"/> </a>
+    <img src="blender.svg" alt="blender" width="40" height="40"/> </a>
 </p>
 
 <h3>⚙️ GitHub Analytics</h3>
