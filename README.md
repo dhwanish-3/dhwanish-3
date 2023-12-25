@@ -53,9 +53,9 @@
 <a href="https://firebase.google.com/"> 
     <img src="https://firebasestorage.googleapis.com/v0/b/nitc-permission-system.appspot.com/o/github-images%2Ffirebase.svg?alt=media" alt="firebase" width="40" height="40"/> </a> 
 <a href="https://www.php.net"> 
-    <img src="https://firebasestorage.googleapis.com/v0/b/nitc-permission-system.appspot.com/o/github-images%2Fphp.svg?alt=media" alt="php" width="40" height="40"/> </a> 
+    <img src="https://firebasestorage.googleapis.com/v0/b/nitc-permission-system.appspot.com/o/github-images%2Fphp.svg?alt=media" alt="php" width="40" height="30"/> </a> 
 <a href="https://www.mysql.com/">
-    <img src="https://firebasestorage.googleapis.com/v0/b/nitc-permission-system.appspot.com/o/github-images%2Fmysql.svg?alt=media" alt="mysql" width="40" height="40"/> </a>
+    <img src="https://firebasestorage.googleapis.com/v0/b/nitc-permission-system.appspot.com/o/github-images%2Fmysql.svg?alt=media" alt="mysql" width="40" height="30"/> </a>
 <a href="https://cloud.google.com"> 
     <img src="https://firebasestorage.googleapis.com/v0/b/nitc-permission-system.appspot.com/o/github-images%2Fgcloud.svg?alt=media" alt="gcp" width="40"height="40"></a> 
 <a href="https://www.blender.org/"> 
