@@ -64,10 +64,10 @@
 
 <h3>⚙️ GitHub Analytics</h3>
 <a href="https://github.com/dhwanish-3">
-    <img class="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=dhwanish-3&theme=dark&hide_border=true" alt="dhwanish-3"/>
-    <img class="Lang" src="https://my-readme-stats-chi.vercel.app/api/top-langs?username=dhwanish-3&show_icons=true&locale=en&layout=compact&theme=dark&size_weight=0.5&count_weight=0.5&langs_count=8&hide_border=true&hide=Makefile" alt="dhwanish-3" />
-    <img class="rank" src="https://my-readme-stats-chi.vercel.app/api?username=dhwanish-3&show_icons=true&locale=en&theme=dark&include_all_commits&rank_icon=percentile&line_height=29&hide_border=true" alt="dhwanish-3" />
-    <img class="trophy" src="https://github-profile-trophy.vercel.app/?username=dhwanish-3&theme=apprentice&row=2&column=3&title=MultipleLang,Stars,Commits,Issues,PullRequest,Repositories,Reviews&no-frame=true"alt="dhwanish-3" />
+    <img class="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=dhwanish-3&theme=neon&hide_border=true" alt="dhwanish-3"/>
+    <img class="Lang" src="https://my-readme-stats-chi.vercel.app/api/top-langs?username=dhwanish-3&show_icons=true&locale=en&layout=compact&theme=neon&size_weight=0.5&count_weight=0.5&langs_count=8&hide_border=true&hide=Makefile" alt="dhwanish-3" />
+    <img class="rank" src="https://my-readme-stats-chi.vercel.app/api?username=dhwanish-3&show_icons=true&locale=en&theme=neon&include_all_commits&rank_icon=percentile&line_height=29&hide_border=true" alt="dhwanish-3" />
+    <img class="trophy" src="https://github-profile-trophy.vercel.app/?username=dhwanish-3&theme=radical&row=2&column=3&title=MultipleLang,Stars,Commits,Issues,PullRequest,Repositories,Reviews&no-frame=true"alt="dhwanish-3" />
 </a>
 <!-- Futute use -->
 <!-- <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhwanish-3&repo=heal_the_health_app"> -->
