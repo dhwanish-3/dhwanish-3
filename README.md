@@ -8,7 +8,7 @@
 
 - 💬 You can ask me about **Flutter**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
     <a href="https://twitter.com/dhwanidhwanish">
     <img align="center" src="https://firebasestorage.googleapis.com/v0/b/nitc-permission-system.appspot.com/o/github-images%2Ftwitter.svg?alt=media" alt="dhwanidhwanish" height="30" width="40" /></a>
@@ -26,7 +26,7 @@
     <img align="center" src="https://firebasestorage.googleapis.com/v0/b/nitc-permission-system.appspot.com/o/github-images%2Fgfg.svg?alt=media" alt="dhwanicx67" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">⚙️ Languages and Tools:</h3>
 <p align="left">
 <a href="https://www.cprogramming.com/">
     <img src="https://firebasestorage.googleapis.com/v0/b/nitc-permission-system.appspot.com/o/github-images%2Fc.svg?alt=media" alt="c" width="40" height="40"/> </a>
@@ -62,12 +62,19 @@
     <img src="https://firebasestorage.googleapis.com/v0/b/nitc-permission-system.appspot.com/o/github-images%2Fblender.svg?alt=media" alt="blender" width="40" height="40"/> </a>
 </p>
 
-<h3>⚙️ GitHub Analytics</h3>
+<h3>🧩 GitHub Analytics</h3>
 <a href="https://github.com/dhwanish-3">
-    <img class="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=dhwanish-3&theme=neon&hide_border=true" alt="dhwanish-3"/>
-    <img class="Lang" src="https://my-readme-stats-chi.vercel.app/api/top-langs?username=dhwanish-3&show_icons=true&locale=en&layout=compact&theme=neon&size_weight=0.5&count_weight=0.5&langs_count=8&hide_border=true&hide=Makefile" alt="dhwanish-3" />
-    <img class="rank" src="https://my-readme-stats-chi.vercel.app/api?username=dhwanish-3&show_icons=true&locale=en&theme=neon&include_all_commits&rank_icon=percentile&line_height=29&hide_border=true" alt="dhwanish-3" />
-    <img class="trophy" src="https://github-profile-trophy.vercel.app/?username=dhwanish-3&theme=radical&row=2&column=3&title=MultipleLang,Stars,Commits,Issues,PullRequest,Repositories,Reviews&no-frame=true"alt="dhwanish-3" />
+    <img class="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=dhwanish-3&theme=neon&hide_border=true&border_color=646464" alt="dhwanish-3"/>
+    <img class="Lang" src="https://my-readme-stats-chi.vercel.app/api/top-langs?username=dhwanish-3&show_icons=true&locale=en&layout=compact&theme=neon&size_weight=0.5&count_weight=0.5&langs_count=8&hide_border=true&hide=Makefile&border_color=646464" alt="dhwanish-3" />
+    <img class="rank" src="https://my-readme-stats-chi.vercel.app/api?username=dhwanish-3&show_icons=true&locale=en&theme=neon&include_all_commits&rank_icon=percentile&line_height=29&hide_border=true&border_color=646464" alt="dhwanish-3" />
+    <img class="trophy" src="https://github-profile-trophy.vercel.app/?username=dhwanish-3&theme=radical&row=2&column=3&title=MultipleLang,Stars,Commits,Issues,PullRequest,Repositories,Reviews&no-frame=true&border_color=646464"alt="dhwanish-3" />
 </a>
-<!-- Futute use -->
-<!-- <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhwanish-3&repo=heal_the_health_app"> -->
+<h3>🔧 Pinned Repos</h3>
+<div >
+<img src="https://my-readme-stats-chi.vercel.app/api/pin/?username=dhwanish-3&repo=heal_the_health_app&theme=neon&border_color=646464">
+<img src="https://my-readme-stats-chi.vercel.app/api/pin/?username=shellyannissa&repo=quizi-five&theme=neon&border_color=646464">
+<img src="https://my-readme-stats-chi.vercel.app/api/pin/?username=dhwanish-3&repo=dhwanY_OS&theme=neon&border_color=646464">
+<img src="https://my-readme-stats-chi.vercel.app/api/pin/?username=dhwanish-3&repo=Heartless&theme=neon&border_color=646464">
+<img src="https://my-readme-stats-chi.vercel.app/api/pin/?username=dhwanish-3&repo=git_bash_powerline_theme&theme=neon&border_color=646464">
+<img src="https://my-readme-stats-chi.vercel.app/api/pin/?username=curioushari&repo=Enquire-Calendar&theme=neon&border_color=646464">
+</div>
