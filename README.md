@@ -1,12 +1,14 @@
 <h1 align="center">Hi 👋, I'm Dhwanish</h1>
-<h3 align="center">Tech Enthusiastic, Eager to Learn</h3>
+<h3 align="center">Love to design and develop</h3>
 <img align="right" alt="Coder GIF" width=380 src="https://firebasestorage.googleapis.com/v0/b/nitc-permission-system.appspot.com/o/github-images%2Fdhwanish-coding.gif?alt=media" />
 
-- 🔭 I’m currently working on [quizi-five](https://github.com/dhwanish-3/quizi-five)
+- 🔭 I’m currently working on [Heartless](https://github.com/dhwanish-3/Heartless)
+- 🎮 I am a passionate designer/developer
+- 🎨 Love to design and develop both mobile and web apps
 
 - 👨‍💻 All of my projects are available at [https://github.com/dhwanish-3](https://github.com/dhwanish-3)
 
-- 💬 You can ask me about **Flutter**
+- 💬 You can ask me about **Flutter, React, CSS, Figma**
 
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
@@ -70,11 +72,23 @@
     <img class="trophy" src="https://github-profile-trophy.vercel.app/?username=dhwanish-3&theme=radical&row=2&column=3&title=MultipleLang,Stars,Commits,Issues,PullRequest,Repositories,Reviews&no-frame=true&border_color=646464"alt="dhwanish-3" />
 </a>
 <h3>🔧 Pinned Repos</h3>
-<div >
-<img src="https://my-readme-stats-chi.vercel.app/api/pin/?username=dhwanish-3&repo=heal_the_health_app&theme=neon&border_color=646464">
+<div>
+<a href="https://github.com/dhwanish-3/Heal-the-Health-App">
+    <img src="https://my-readme-stats-chi.vercel.app/api/pin/?username=dhwanish-3&repo=heal_the_health_app&theme=neon&border_color=646464">
+</a>
+<a href="https://github.com/dhwanish-3/quizi-five">
 <img src="https://my-readme-stats-chi.vercel.app/api/pin/?username=shellyannissa&repo=quizi-five&theme=neon&border_color=646464">
+</a>
+<a href="https://github.com/dhwanish-3/dhwanY_OS">
 <img src="https://my-readme-stats-chi.vercel.app/api/pin/?username=dhwanish-3&repo=dhwanY_OS&theme=neon&border_color=646464">
+</a>
+<a href="https://github.com/dhwanish-3/Heartless">
 <img src="https://my-readme-stats-chi.vercel.app/api/pin/?username=dhwanish-3&repo=Heartless&theme=neon&border_color=646464">
+</a>
+<a href="https://github.com/dhwanish-3/git_bash_powerline_theme">
 <img src="https://my-readme-stats-chi.vercel.app/api/pin/?username=dhwanish-3&repo=git_bash_powerline_theme&theme=neon&border_color=646464">
+</a>
+<a href="https://github.com/dhwanish-3/Enquire-Calendar">
 <img src="https://my-readme-stats-chi.vercel.app/api/pin/?username=curioushari&repo=Enquire-Calendar&theme=neon&border_color=646464">
+</a>
 </div>
