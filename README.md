@@ -2,18 +2,20 @@
 <h3 align="center">Love to design and develop</h3>
 <img align="right" alt="Coder GIF" width=380 src="https://firebasestorage.googleapis.com/v0/b/nitc-permission-system.appspot.com/o/github-images%2Fdhwanish-coding.gif?alt=media" />
 
-- 🔭 I’m currently working on [Heartless](https://github.com/dhwanish-3/Heartless)
+- 🔭 I’m currently working on [Heartless](https://github.com/dhwanish-3/Heartless), [Networking_Laboratory](https://github.com/dhwanish-3/Networking_Laboratory)
 - 🎮 I am a passionate designer/developer
 - 🎨 Love to design and develop both mobile and web apps
 
-- 👨‍💻 All of my projects are available at [https://github.com/dhwanish-3](https://github.com/dhwanish-3)
+- 👨‍💻 All of my projects are available [Here](https://github.com/dhwanish-3?tab=repositories)
 
 - 💬 You can ask me about **Flutter, React, CSS, Figma**
 
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
-    <a href="https://twitter.com/dhwanidhwanish">
-    <img align="center" src="https://firebasestorage.googleapis.com/v0/b/nitc-permission-system.appspot.com/o/github-images%2Ftwitter.svg?alt=media" alt="dhwanidhwanish" height="30" width="40" /></a>
+    <!-- <a href="https://twitter.com/dhwanidhwanish">
+    <img align="center" src="https://firebasestorage.googleapis.com/v0/b/nitc-permission-system.appspot.com/o/github-images%2Ftwitter.svg?alt=media" alt="dhwanidhwanish" height="30" width="40" /></a> -->
+    <a href="https://www.leetcode.com/dhwanish3">
+    <img align="center" src="https://firebasestorage.googleapis.com/v0/b/nitc-permission-system.appspot.com/o/github-images%2Fleetcode.svg?alt=media" alt="dhwanish3" height="30" width="40" /></a>
     <a href="https://linkedin.com/in/dhwanishkr">
     <img align="center" src="https://firebasestorage.googleapis.com/v0/b/nitc-permission-system.appspot.com/o/github-images%2Flinkedin.svg?alt=media" alt="dhwanishkr" height="30" width="40" /></a>
     <a href="https://www.codechef.com/users/dhwani333sh">
@@ -22,8 +24,6 @@
     <img align="center" src="https://firebasestorage.googleapis.com/v0/b/nitc-permission-system.appspot.com/o/github-images%2Fhackerrank.svg?alt=media" alt="dhwanish_b211261" height="30" width="40" /></a>
     <a href="https://codeforces.com/profile/dhwanish3">
     <img align="center" src="https://firebasestorage.googleapis.com/v0/b/nitc-permission-system.appspot.com/o/github-images%2Fcodeforces.svg?alt=media" alt="dhwanish3" height="30" width="40" /></a>
-    <a href="https://www.leetcode.com/dhwanish3">
-    <img align="center" src="https://firebasestorage.googleapis.com/v0/b/nitc-permission-system.appspot.com/o/github-images%2Fleetcode.svg?alt=media" alt="dhwanish3" height="30" width="40" /></a>
     <a href="https://auth.geeksforgeeks.org/user/dhwanicx67">
     <img align="center" src="https://firebasestorage.googleapis.com/v0/b/nitc-permission-system.appspot.com/o/github-images%2Fgfg.svg?alt=media" alt="dhwanicx67" height="30" width="40" /></a>
 </p>
@@ -67,7 +67,7 @@
 <h3>🧩 GitHub Analytics</h3>
 <a href="https://github.com/dhwanish-3">
     <img class="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=dhwanish-3&theme=transparent&hide_border=true&border_color=646464" alt="dhwanish-3"/>
-    <img class="Lang" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhwanish-3&show_icons=true&locale=en&layout=compact&theme=transparent&size_weight=0.5&count_weight=0.5&langs_count=8&hide_border=true&hide=Makefile&border_color=646464" alt="dhwanish-3" />
+    <img class="Lang" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhwanish-3&show_icons=true&locale=en&layout=compact&theme=transparent&size_weight=0.5&count_weight=0.5&langs_count=8&hide_border=true&hide=Cmake,Batchfile&border_color=646464" alt="dhwanish-3" />
     <img class="rank" src="https://github-readme-stats.vercel.app/api?username=dhwanish-3&show_icons=true&locale=en&theme=transparent&include_all_commits&rank_icon=percentile&line_height=29&hide_border=true&border_color=646464" alt="dhwanish-3" />
     <img class="trophy" src="https://github-profile-trophy.vercel.app/?username=dhwanish-3&theme=algolia&row=2&column=3&title=MultipleLang,Stars,Commits,Issues,PullRequest,Repositories,Reviews&no-frame=true&border_color=646464"alt="dhwanish-3" />
 </a>
