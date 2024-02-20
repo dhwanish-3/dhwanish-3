@@ -65,7 +65,7 @@
 </p>
 
 <h3>🐍 My Contributions</h3>
-<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/dhwanish-3/dhwanish-3/output/github-contribution-grid-snake.svg" />
+<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/dhwanish-3/dhwanish-3/output/github-contribution-grid-snake-red-dark-blue.svg" />
 
 
 <h3>🧩 GitHub Analytics</h3>
