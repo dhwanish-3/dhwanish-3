@@ -64,6 +64,10 @@
     <img src="https://firebasestorage.googleapis.com/v0/b/nitc-permission-system.appspot.com/o/github-images%2Fblender.svg?alt=media" alt="blender" width="40" height="40"/> </a>
 </p>
 
+<h3>🐍 My Contributions</h3>
+<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/dhwanish-3/dhwanish-3/output/github-contribution-grid-snake.svg" />
+
+
 <h3>🧩 GitHub Analytics</h3>
 <a href="https://github.com/dhwanish-3">
     <img class="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=dhwanish-3&theme=transparent&hide_border=true&border_color=646464" alt="dhwanish-3"/>
