@@ -27,8 +27,12 @@
     <a href="https://auth.geeksforgeeks.org/user/dhwanicx67">
     <img align="center" src="https://firebasestorage.googleapis.com/v0/b/nitc-permission-system.appspot.com/o/github-images%2Fgfg.svg?alt=media" alt="dhwanicx67" height="30" width="40" /></a>
 </p>
-
 <h3 align="left">⚙️ Languages and Tools:</h3>
+<div align="left">
+    <img src="https://skillicons.dev/icons?i=c,cpp,flutter,dart,html,css,js,figma,git,react,nodejs,firebase,java,mysql,blender" />
+</div>
+
+<!-- <h3 align="left">⚙️ Languages and Tools:</h3>
 <p align="left">
 <a href="https://www.cprogramming.com/">
     <img src="https://firebasestorage.googleapis.com/v0/b/nitc-permission-system.appspot.com/o/github-images%2Fc.svg?alt=media" alt="c" width="40" height="40"/> </a>
@@ -62,10 +66,10 @@
     <img src="https://firebasestorage.googleapis.com/v0/b/nitc-permission-system.appspot.com/o/github-images%2Fgcloud.svg?alt=media" alt="gcp" width="40"height="40"></a> 
 <a href="https://www.blender.org/"> 
     <img src="https://firebasestorage.googleapis.com/v0/b/nitc-permission-system.appspot.com/o/github-images%2Fblender.svg?alt=media" alt="blender" width="40" height="40"/> </a>
-</p>
+</p> -->
 
 <h3>🐍 My Contributions</h3>
-<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/dhwanish-3/dhwanish-3/output/github-contribution-grid-snake-red-dark-blue.svg" />
+<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/dhwanish-3/dhwanish-3/output/github-contribution-grid-snake-dark-blue.svg" />
 
 
 <h3>🧩 GitHub Analytics</h3>
@@ -75,6 +79,7 @@
     <img class="rank" src="https://github-readme-stats.vercel.app/api?username=dhwanish-3&show_icons=true&locale=en&theme=transparent&include_all_commits&rank_icon=percentile&line_height=29&hide_border=true&border_color=646464" alt="dhwanish-3" />
     <img class="trophy" src="https://github-profile-trophy.vercel.app/?username=dhwanish-3&theme=algolia&row=2&column=3&title=MultipleLang,Stars,Commits,Issues,PullRequest,Repositories,Reviews&no-frame=true&border_color=646464"alt="dhwanish-3" />
 </a>
+
 <h3>🔧 Pinned Repos</h3>
 <div>
 <a href="https://github.com/dhwanish-3/Heal-the-Health-App">
