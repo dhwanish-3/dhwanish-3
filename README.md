@@ -74,30 +74,30 @@
 
 <h3>🧩 GitHub Analytics</h3>
 <a href="https://github.com/dhwanish-3">
-    <img class="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=dhwanish-3&theme=transparent&hide_border=true&border_color=646464" alt="dhwanish-3"/>
-    <img class="Lang" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhwanish-3&show_icons=true&locale=en&layout=compact&theme=transparent&size_weight=0.5&count_weight=0.5&langs_count=8&hide_border=true&hide=Cmake,Batchfile&border_color=646464" alt="dhwanish-3" />
-    <img class="rank" src="https://github-readme-stats.vercel.app/api?username=dhwanish-3&show_icons=true&locale=en&theme=transparent&include_all_commits&rank_icon=percentile&line_height=29&hide_border=true&border_color=646464" alt="dhwanish-3" />
-    <img class="trophy" src="https://github-profile-trophy.vercel.app/?username=dhwanish-3&theme=algolia&row=2&column=3&title=MultipleLang,Stars,Commits,Issues,PullRequest,Repositories,Reviews&no-frame=true&border_color=646464"alt="dhwanish-3" />
+    <img class="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=dhwanish-3&theme=tokyonight&hide_border=true&border_color=646464" alt="dhwanish-3"/>
+    <img class="Lang" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhwanish-3&show_icons=true&locale=en&layout=compact&theme=tokyonight&size_weight=0.5&count_weight=0.5&langs_count=8&hide_border=true&hide=Cmake,Batchfile&border_color=646464" alt="dhwanish-3" />
+    <img class="rank" src="https://github-readme-stats.vercel.app/api?username=dhwanish-3&show_icons=true&locale=en&theme=tokyonight&include_all_commits&rank_icon=percentile&line_height=29&hide_border=true&border_color=646464" alt="dhwanish-3" />
+    <img class="trophy" src="https://github-profile-trophy.vercel.app/?username=dhwanish-3&theme=tokyonight&row=2&column=3&title=MultipleLang,Stars,Commits,Issues,PullRequest,Repositories,Reviews&no-frame=true&border_color=646464"alt="dhwanish-3" />
 </a>
 
 <h3>🔧 Pinned Repos</h3>
 <div>
 <a href="https://github.com/dhwanish-3/Heal-the-Health-App">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhwanish-3&repo=heal_the_health_app&theme=transparent&border_color=646464">
-</a>
-<a href="https://github.com/dhwanish-3/quizi-five">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=shellyannissa&repo=quizi-five&theme=transparent&border_color=646464">
-</a>
-<a href="https://github.com/dhwanish-3/dhwanY_OS">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=dhwanish-3&repo=dhwanY_OS&theme=transparent&border_color=646464">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhwanish-3&repo=heal_the_health_app&theme=tokyonight&border_color=646464">
 </a>
 <a href="https://github.com/dhwanish-3/Heartless">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=dhwanish-3&repo=Heartless&theme=transparent&border_color=646464">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=dhwanish-3&repo=Heartless&theme=tokyonight&border_color=646464">
+</a>
+<a href="https://github.com/dhwanish-3/quizi-five">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=shellyannissa&repo=quizi-five&theme=tokyonight&border_color=646464">
+</a>
+<a href="https://github.com/dhwanish-3/dhwanY_OS">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=dhwanish-3&repo=dhwanY_OS&theme=tokyonight&border_color=646464">
 </a>
 <a href="https://github.com/dhwanish-3/git_bash_powerline_theme">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=dhwanish-3&repo=git_bash_powerline_theme&theme=transparent&border_color=646464">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=dhwanish-3&repo=git_bash_powerline_theme&theme=tokyonight&border_color=646464">
 </a>
-<a href="https://github.com/dhwanish-3/Enquire-Calendar">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=curioushari&repo=Enquire-Calendar&theme=transparent&border_color=646464">
+<a href="https://github.com/dhwanish-3/calendar_slider">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=dhwanish-3&repo=calendar_slider&theme=tokyonight&border_color=646464">
 </a>
 </div>
