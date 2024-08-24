@@ -2,7 +2,7 @@
 <h3 align="center">Love to develop</h3>
 <img align="right" alt="Coder GIF" width=380 src="https://firebasestorage.googleapis.com/v0/b/nitc-permission-system.appspot.com/o/github-images%2Fdhwanish-coding.gif?alt=media" />
 
-- 🔭 I’m currently working on getting a job
+- 🔭 I’m currently learning **typescript & tailwindcss**
 - 🎮 I am a passionate software developer
 - 🎨 Love to develop both mobile and web apps
 
@@ -83,7 +83,7 @@
 <h3>🔧 Pinned Repos</h3>
 <div>
 <a href="https://github.com/dhwanish-3/Heal-the-Health-App">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhwanish-3&repo=heal_the_health_app&theme=highcontrast&border_color=111">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=dhwanish-3&repo=heal_the_health_app&theme=highcontrast&border_color=111">
 </a>
 <a href="https://github.com/dhwanish-3/Heartless">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhwanish-3&repo=Heartless&theme=highcontrast&border_color=111">
