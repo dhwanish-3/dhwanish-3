@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Dhwanish</h1>
-<h3 align="center">Developing a better</h3>
+<h3 align="center">Nothing</h3>
 <img align="right" alt="Coder GIF" width=380 src="https://firebasestorage.googleapis.com/v0/b/nitc-permission-system.appspot.com/o/github-images%2Fdhwanish-coding.gif?alt=media" />
 
-- 🔭 I’m currently learning **typescript & tailwindcss**
+- 🔭 I’m currently learning **nothing**
 - 🎮 I am a passionate software developer
 - 🎨 Love to develop both mobile and web apps
 
