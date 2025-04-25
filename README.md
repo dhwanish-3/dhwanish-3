@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Dhwanish</h1>
-<h3 align="center">Nothing</h3>
-<img align="right" alt="Coder GIF" width=380 src="https://firebasestorage.googleapis.com/v0/b/nitc-permission-system.appspot.com/o/github-images%2Fdhwanish-coding.gif?alt=media" />
+<h3 align="center">Get, Set, Ready!</h3>
+<img align="right" alt="Coder GIF" width=380 src="https://firebasestorage.googleapis.com/v0/b/nitc-permission-system.appspot.com/o/github-images%2Fdhwanish-coding.gif?alt=media&token=1bf44f70-8a12-43e7-bab7-f2992be2bff2" />
 
-- 🔭 I’m currently learning **nothing**
+- 🔭 I’m currently learning **ChampSim**
 - 🎮 I am a passionate software developer
 - 🎨 Love to develop both mobile and web apps
 
@@ -15,17 +15,17 @@
     <!-- <a href="https://twitter.com/dhwanidhwanish">
     <img align="center" src="https://firebasestorage.googleapis.com/v0/b/nitc-permission-system.appspot.com/o/github-images%2Ftwitter.svg?alt=media" alt="dhwanidhwanish" height="30" width="40" /></a> -->
     <a href="https://www.leetcode.com/dhwanish3">
-    <img align="center" src="https://firebasestorage.googleapis.com/v0/b/nitc-permission-system.appspot.com/o/github-images%2Fleetcode.svg?alt=media" alt="dhwanish3" height="30" width="40" /></a>
+    <img align="center" src="https://firebasestorage.googleapis.com/v0/b/nitc-permission-system.appspot.com/o/github-images%2Fleetcode.svg?alt=media&token=4682f396-e6cf-4c6d-901d-58370e54ff6c" alt="dhwanish3" height="30" width="40" /></a>
     <a href="https://linkedin.com/in/dhwanishkr">
-    <img align="center" src="https://firebasestorage.googleapis.com/v0/b/nitc-permission-system.appspot.com/o/github-images%2Flinkedin.svg?alt=media" alt="dhwanishkr" height="30" width="40" /></a>
+    <img align="center" src="https://firebasestorage.googleapis.com/v0/b/nitc-permission-system.appspot.com/o/github-images%2Flinkedin.svg?alt=media&token=dbb39266-3dcc-483d-a04a-b0f3094b4af9" alt="dhwanishkr" height="30" width="40" /></a>
     <a href="https://www.codechef.com/users/dhwani333sh">
-    <img align="center" src="https://firebasestorage.googleapis.com/v0/b/nitc-permission-system.appspot.com/o/github-images%2Fcodechef.svg?alt=media" alt="dhwani333sh" height="30" width="40" /></a>
+    <img align="center" src="https://firebasestorage.googleapis.com/v0/b/nitc-permission-system.appspot.com/o/github-images%2Fcodechef.svg?alt=media&token=a809455d-9994-48f7-abf6-efbb20dfe918" alt="dhwani333sh" height="30" width="40" /></a>
     <a href="https://www.hackerrank.com/dhwanish_b211261">
-    <img align="center" src="https://firebasestorage.googleapis.com/v0/b/nitc-permission-system.appspot.com/o/github-images%2Fhackerrank.svg?alt=media" alt="dhwanish_b211261" height="30" width="40" /></a>
+    <img align="center" src="https://firebasestorage.googleapis.com/v0/b/nitc-permission-system.appspot.com/o/github-images%2Fhackerrank.svg?alt=media&token=6941da93-ddba-45d8-8171-325b5ec2abc7" alt="dhwanish_b211261" height="30" width="40" /></a>
     <a href="https://codeforces.com/profile/dhwanish3">
-    <img align="center" src="https://firebasestorage.googleapis.com/v0/b/nitc-permission-system.appspot.com/o/github-images%2Fcodeforces.svg?alt=media" alt="dhwanish3" height="30" width="40" /></a>
+    <img align="center" src="https://firebasestorage.googleapis.com/v0/b/nitc-permission-system.appspot.com/o/github-images%2Fcodeforces.svg?alt=media&token=8386700c-fee3-47b1-829d-12d089eaff4c" alt="dhwanish3" height="30" width="40" /></a>
     <a href="https://auth.geeksforgeeks.org/user/dhwanicx67">
-    <img align="center" src="https://firebasestorage.googleapis.com/v0/b/nitc-permission-system.appspot.com/o/github-images%2Fgfg.svg?alt=media" alt="dhwanicx67" height="30" width="40" /></a>
+    <img align="center" src="https://firebasestorage.googleapis.com/v0/b/nitc-permission-system.appspot.com/o/github-images%2Fgfg.svg?alt=media&token=c7782b25-8b07-4665-a950-b1e6886dc160" alt="dhwanicx67" height="30" width="40" /></a>
 </p>
 <h3 align="left">⚙️ Languages and Tools:</h3>
 <div align="left">
