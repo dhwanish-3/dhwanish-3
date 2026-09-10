@@ -2,7 +2,7 @@
 <h3 align="center">Let's GO!</h3>
 <img align="right" alt="Coder GIF" width=380 src="dhwanish-coding.gif" />
 
-- 🔭 I’m currently learning 
+- 🔭 I’m currently learning **¯\_(ツ)_/¯**
 - 🎮 I am a passionate software developer
 - 🎨 Love to develop both mobile and web apps
 
@@ -14,42 +14,6 @@
 <div align="left">
     <img src="https://skillicons.dev/icons?i=c,cpp,flutter,dart,html,css,js,figma,git,react,nodejs,firebase,java,mysql,blender" />
 </div>
-
-<!-- <h3 align="left">⚙️ Languages and Tools:</h3>
-<p align="left">
-<a href="https://www.cprogramming.com/">
-    <img src="https://firebasestorage.googleapis.com/v0/b/nitc-permission-system.appspot.com/o/github-images%2Fc.svg?alt=media" alt="c" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/cpp/"> 
-    <img src="https://firebasestorage.googleapis.com/v0/b/nitc-permission-system.appspot.com/o/github-images%2Fcpp.svg?alt=media" alt="cplusplus" width="40" height="40"/> </a> 
-<a href="https://flutter.dev"> 
-    <img src="https://firebasestorage.googleapis.com/v0/b/nitc-permission-system.appspot.com/o/github-images%2Fflutter.svg?alt=media" alt="flutter" width="40" height="40"/> </a> 
-<a href="https://dart.dev"> 
-    <img src="https://firebasestorage.googleapis.com/v0/b/nitc-permission-system.appspot.com/o/github-images%2Fdart.svg?alt=media" alt="dart" width="40" height="40"/> </a> 
-<a href="https://www.w3.org/html/">
-    <img src="https://firebasestorage.googleapis.com/v0/b/nitc-permission-system.appspot.com/o/github-images%2Fhtml.svg?alt=media" alt="html5" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/">
-    <img src="https://firebasestorage.googleapis.com/v0/b/nitc-permission-system.appspot.com/o/github-images%2Fcss.svg?alt=media" alt="css3" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"> 
-    <img src="https://firebasestorage.googleapis.com/v0/b/nitc-permission-system.appspot.com/o/github-images%2Fjavascript.svg?alt=media" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://www.figma.com/">
-    <img src="https://firebasestorage.googleapis.com/v0/b/nitc-permission-system.appspot.com/o/github-images%2Ffigma.svg?alt=media" alt="figma" width="40" height="40"/> </a> 
-<a href="https://reactjs.org/">
-    <img src="https://firebasestorage.googleapis.com/v0/b/nitc-permission-system.appspot.com/o/github-images%2Freact.svg?alt=media" alt="react" width="40" height="40"/> </a> 
-<a href="https://nodejs.org">
-    <img src="https://firebasestorage.googleapis.com/v0/b/nitc-permission-system.appspot.com/o/github-images%2Fnodejs.svg?alt=media" alt="nodejs" width="40" height="40"/> </a>
-<a href="https://www.java.com">
-    <img src="https://firebasestorage.googleapis.com/v0/b/nitc-permission-system.appspot.com/o/github-images%2Fjava.svg?alt=media" alt="java" width="40" height="40"/> </a> 
-<a href="https://firebase.google.com/"> 
-    <img src="https://firebasestorage.googleapis.com/v0/b/nitc-permission-system.appspot.com/o/github-images%2Ffirebase.svg?alt=media" alt="firebase" width="40" height="40"/> </a> 
-<a href="https://www.php.net"> 
-    <img src="https://firebasestorage.googleapis.com/v0/b/nitc-permission-system.appspot.com/o/github-images%2Fphp.svg?alt=media" alt="php" width="40" height="30"/> </a> 
-<a href="https://www.mysql.com/">
-    <img src="https://firebasestorage.googleapis.com/v0/b/nitc-permission-system.appspot.com/o/github-images%2Fmysql.svg?alt=media" alt="mysql" width="40" height="30"/> </a>
-<a href="https://cloud.google.com"> 
-    <img src="https://firebasestorage.googleapis.com/v0/b/nitc-permission-system.appspot.com/o/github-images%2Fgcloud.svg?alt=media" alt="gcp" width="40"height="40"></a> 
-<a href="https://www.blender.org/"> 
-    <img src="https://firebasestorage.googleapis.com/v0/b/nitc-permission-system.appspot.com/o/github-images%2Fblender.svg?alt=media" alt="blender" width="40" height="40"/> </a>
-</p> -->
 
 <h3>🐍 My Contributions</h3>
 <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/dhwanish-3/dhwanish-3/output/github-contribution-grid-snake-dark-blue.svg" />
